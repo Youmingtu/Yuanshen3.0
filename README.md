@@ -1,7 +1,6 @@
-# Vue 3 + Vite
+# 原神官网3.0版本
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+预览地址：https://youmingtu.github.io/Yuanshen3.0-dist/v
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+基于vue3完美还原原神官网3.0版的网页制作，使用核心swiper来完成，还做了窗口自适应处理（手动计算（QAQ)）。
+萌新的第一个完整项目，代码有些冗余还望见谅。
